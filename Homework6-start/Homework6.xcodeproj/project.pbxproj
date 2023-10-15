@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		30274A0C2AD34133004C0723 /* Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30274A0B2AD34133004C0723 /* Square.swift */; };
-		BA1340E72A915A2A001A1F9F /* Homework5App.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1340E62A915A2A001A1F9F /* Homework5App.swift */; };
+		BA1340E72A915A2A001A1F9F /* Start.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1340E62A915A2A001A1F9F /* Start.swift */; };
 		BA1340E92A915A2A001A1F9F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1340E82A915A2A001A1F9F /* ContentView.swift */; };
 		BA1340EB2A915A2D001A1F9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA1340EA2A915A2D001A1F9F /* Assets.xcassets */; };
 		BA1340EE2A915A2D001A1F9F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA1340ED2A915A2D001A1F9F /* Preview Assets.xcassets */; };
@@ -23,7 +23,7 @@
 /* Begin PBXFileReference section */
 		30274A0B2AD34133004C0723 /* Square.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Square.swift; sourceTree = "<group>"; };
 		BA1340E32A915A2A001A1F9F /* Homework6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homework6.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BA1340E62A915A2A001A1F9F /* Homework5App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homework5App.swift; sourceTree = "<group>"; };
+		BA1340E62A915A2A001A1F9F /* Start.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Start.swift; sourceTree = "<group>"; };
 		BA1340E82A915A2A001A1F9F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BA1340EA2A915A2D001A1F9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA1340ED2A915A2D001A1F9F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -67,7 +67,7 @@
 			children = (
 				BA1341032A9195DD001A1F9F /* View */,
 				BA1341022A9195D3001A1F9F /* Model */,
-				BA1340E62A915A2A001A1F9F /* Homework5App.swift */,
+				BA1340E62A915A2A001A1F9F /* Start.swift */,
 				BA1340EA2A915A2D001A1F9F /* Assets.xcassets */,
 				BA1340EC2A915A2D001A1F9F /* Preview Content */,
 			);
@@ -179,7 +179,7 @@
 				BA1340FD2A918B27001A1F9F /* TaskDetailView.swift in Sources */,
 				BA1340F72A916399001A1F9F /* AddTaskView.swift in Sources */,
 				BA1340E92A915A2A001A1F9F /* ContentView.swift in Sources */,
-				BA1340E72A915A2A001A1F9F /* Homework5App.swift in Sources */,
+				BA1340E72A915A2A001A1F9F /* Start.swift in Sources */,
 				BA1340F52A9161C3001A1F9F /* TaskStore.swift in Sources */,
 				BA1341012A919522001A1F9F /* TaskListView.swift in Sources */,
 				BA6EC8FC2AC4753D008BBB16 /* NewTaskButtonView.swift in Sources */,
